@@ -1,38 +1,87 @@
-<h1 align="center">Hi 👋, I'm Omar Khecharem</h1>
-<h3 align="center">A passionate web developer from Tunisia</h3>
+<!-- ===================================================== -->
+<!-- 🚀 Omar Khecharem | Full Stack Developer GitHub README -->
+<!-- ===================================================== -->
 
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/omar-khecharem-373b16241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omar-khecharem-373b16241" height="30" width="40" /></a>
-<a href="https://github.com/Omar-khecharem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Omar-khecharem" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-</p>
-
-## 📈 GitHub Stats & Streaks
+<h1 align="center">👋 Hi, I'm <span style="color:#FF6B81;">Omar Khecharem</span></h1>
+<h3 align="center">🚀 Full Stack Developer | Creative UI/UX Designer | Tech Enthusiast from Tunisia 🇹🇳</h3>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Omar-khecharem&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-khecharem&layout=compact&langs_count=8&theme=dracula"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Omar-khecharem&theme=dracula"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF6B81&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Frontend+%26+Backend+Engineer;Freelance+Web+Developer;UI%2FUX+Designer;Always+Learning+New+Techs" alt="Typing SVG" />
 </p>
+
+---
+
+## 🌐 Connect with Me
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Omar-khecharem&label=Profile%20views&color=0e75b6&style=flat" alt="Omar-khecharem" />
+  <a href="https://linkedin.com/in/omar-khecharem-373b16241" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Omar-khecharem" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
+  </a>
 </p>
+
+---
+
+## 💻 Tech Stack
+
+### 🧠 Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,java,python,php,c,html,css" />
+</p>
+
+### ⚙️ Frameworks & Libraries
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap,tailwind" />
+</p>
+
+### 🗄️ Databases & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,gcp,figma,vscode,git" />
+</p>
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Omar-khecharem&show_icons=true&theme=radical&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-khecharem&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Omar-khecharem&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## ✨ About Me
+
+- 🎓 Software Engineering Student at **ISIMG Gabès**
+- 💼 Working as a **Freelance Web Developer**
+- 🎨 Passionate about **UI/UX design** and digital innovation  
+- 🌍 Exploring **AI-powered web applications**
+- 🧩 Love creating projects that merge **creativity and technology**
+
+
+---
+
+## 🧠 My Philosophy
+
+> “Code is not just syntax — it’s the bridge between imagination and impact.”  
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Omar-khecharem&label=Profile%20views&color=ff6b81&style=flat-square" alt="profile views" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Omar-khecharem">
+    <img src="https://img.shields.io/badge/💻_Explore_My_Projects-FF6B81?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+</p>
+
+---
