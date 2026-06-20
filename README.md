@@ -14,7 +14,7 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/omar-k-373b16241/?locale=fr" target="_blank">
+  <a href="https://www.linkedin.com/in/omar-khecharem-373b16241" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
