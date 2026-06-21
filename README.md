@@ -22,17 +22,7 @@
     <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
   </a>
 </p>
-  &nbsp;&nbsp;
 
-  <a href="https://www.facebook.com/omar.kcharem.39" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" height="45" />
-  </a>
-
-  &nbsp;&nbsp;
-
-  <a href="https://www.instagram.com/omar.khecharem/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="45" />
-  </a>
 ---
 
 ## 💻 Tech Stack
