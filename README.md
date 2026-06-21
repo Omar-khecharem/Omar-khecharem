@@ -22,19 +22,29 @@
     <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
   </a>
 </p>
+  &nbsp;&nbsp;
 
+  <a href="https://www.facebook.com/omar.kcharem.39" target="_blank">
+    <img src="https://skillicons.dev/icons?i=facebook" height="45" />
+  </a>
+
+  &nbsp;&nbsp;
+
+  <a href="https://www.instagram.com/omar.khecharem/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="45" />
+  </a>
 ---
 
 ## 💻 Tech Stack
 
 ### 🧠 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,java,python,php,c,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,java,python,php,c,html,css,dart" />
 </p>
 
 ### ⚙️ Frameworks & Libraries
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap,tailwind,flutter" />
 </p>
 
 ### 🗄️ Databases & Tools
@@ -42,6 +52,12 @@
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,gcp,figma,vscode,git" />
 </p>
 
+### 🧠 AI & Cloud Technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cloudflare" />
+</p>
 ---
 
 ## 📈 GitHub Analytics
