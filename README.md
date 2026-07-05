@@ -53,14 +53,13 @@
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Omar-khecharem&show_icons=true&theme=radical&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-khecharem&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Omar-khecharem&show_icons=true&theme=radical&count_private=true&hide_border=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-khecharem&layout=compact&theme=radical&hide_border=true" height="180" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Omar-khecharem&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omar-khecharem&theme=radical&hide_border=true" height="180" alt="GitHub Streak" />
 </p>
-
 ---
 
 ## ✨ About Me
