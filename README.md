@@ -52,13 +52,6 @@
 
 ## 📈 GitHub Analytics
 
-<p align="center">
-  <!-- Statistiques Globales (Instance alternative plus stable) -->
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Omar-khecharem&show_icons=true&theme=radical&count_private=true&hide_border=true" height="180" alt="GitHub Stats" />
-  
-  <!-- Top Langages (Instance alternative plus stable) -->
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Omar-khecharem&layout=compact&theme=radical&hide_border=true" height="180" alt="Top Languages" />
-</p>
 
 
 <p align="center">
