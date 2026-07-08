@@ -54,9 +54,8 @@
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omar-khecharem&theme=radical&hide_border=true" height="180" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Omar-khecharem&theme=radical&hide_border=true&v=1" height="180" alt="GitHub Streak" />
 </p>
-
 
 ## ✨ About Me
 
