@@ -54,7 +54,16 @@
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Omar-khecharem&theme=radical&hide_border=true&v=1" height="180" alt="GitHub Streak" />
+  <!-- GitHub Streak Stats (Compteur de régularité) -->
+  <img src="https://streak-stats.demolab.com/?user=Omar-khecharem&theme=radical&hide_border=true" height="180" alt="GitHub Streak" />
+  
+  <!-- GitHub Stats (Version de secours ultra-fiable et active) -->
+  <img src="https://github-stats-extended.vercel.app/api?username=Omar-khecharem&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <!-- Langages les plus utilisés -->
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Omar-khecharem&layout=compact&theme=radical&hide_border=true&langs_count=6" height="180" alt="Top Languages" />
 </p>
 
 ## ✨ About Me
