@@ -79,7 +79,7 @@
 
 ## 🧠 My Philosophy
 
-> “Code is not just syntax — it’s the bridge between imagination and impact.”  
+> “Code is like humor. When you have to explain it, it’s bad.”  
 
 ---
 
