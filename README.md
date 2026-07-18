@@ -27,11 +27,6 @@
 </p>
 
 ---
-## 🐍 GitHub Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Omar-khecharem/Omar-khecharem/output/github-contribution-grid-snake.svg" alt="GitHub Snake Game" />
-</p>
 
 ## 💻 Tech Stack
 
