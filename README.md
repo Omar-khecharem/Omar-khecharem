@@ -9,6 +9,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF6B81&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Frontend+%26+Backend+Engineer;Freelance+Web+Developer;UI%2FUX+Designer;Always+Learning+New+Techs" alt="Typing SVG" />
 </p>
 
+
+
+
 ---
 
 ## 🌐 Connect with Me
@@ -24,6 +27,11 @@
 </p>
 
 ---
+## 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Omar-khecharem/Omar-khecharem/output/github-contribution-grid-snake.svg" alt="GitHub Snake Game" />
+</p>
 
 ## 💻 Tech Stack
 
@@ -64,6 +72,12 @@
 <p align="center">
   <!-- Langages les plus utilisés -->
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Omar-khecharem&layout=compact&theme=radical&hide_border=true&langs_count=6" height="180" alt="Top Languages" />
+</p>
+
+## 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Omar-khecharem/Omar-khecharem/output/github-contribution-grid-snake.svg" alt="GitHub Snake Game" />
 </p>
 
 ## ✨ About Me
