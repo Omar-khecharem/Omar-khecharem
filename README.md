@@ -69,11 +69,7 @@
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Omar-khecharem&layout=compact&theme=radical&hide_border=true&langs_count=6" height="180" alt="Top Languages" />
 </p>
 
-## 🐍 GitHub Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Omar-khecharem/Omar-khecharem/output/github-contribution-grid-snake.svg" alt="GitHub Snake Game" />
-</p>
 
 ## ✨ About Me
 
